@@ -144,6 +144,47 @@
         "deviationPercentage": 0.5,
         "timeSinceLastUpdateInMilliseconds": 21600000
       }
+    },
+    "ETHx": {
+      "priceFeedAddress": "0xFaBEb1474C2Ab34838081BFdDcE4132f640E7D2d",
+      "updateTriggersOverrides": {
+        "deviationPercentage": 1,
+        "timeSinceLastUpdateInMilliseconds": 86400000
+      }
+    },
+    "XVS": {
+      "priceFeedAddress": "0xa2a8507DEb233ceE4F5594044C259DD0582339CC",
+      "updateTriggersOverrides": {
+        "deviationPercentage": 1,
+        "timeSinceLastUpdateInMilliseconds": 86400000
+      }
+    },
+    "ETH": {
+      "priceFeedAddress": "0x67F6838e58859d612E4ddF04dA396d6DABB66Dc4"
+    },
+    "BTC": {
+      "priceFeedAddress": "0xAB7f623fb2F6fea6601D4350FA0E2290663C28Fc"
+    },
+    "BIO": {
+      "priceFeedAddress": "0xeC7C6AdcC867E1C22713D14797339750E36538E4",
+      "updateTriggersOverrides": {
+        "deviationPercentage": 1,
+        "timeSinceLastUpdateInMilliseconds": 86400000
+      }
+    },
+    "BUIDL_FUNDAMENTAL": {
+      "prideFeedsAddress": "0xb9BD795BB71012c0F3cd1D9c9A4c686F2d3524A4",
+      "updateTriggersOverrides": {
+        "deviationPercentage": 0.1,
+        "timeSinceLastUpdateInMilliseconds": 86400000
+      }
+    },
+    "deUSD_FUNDAMENTAL": {
+      "priceFeedAddress": "0xcA727511c9d542AAb9eF406d24E5bbbE4567c22d",
+      "updateTriggersOverrides": {
+        "deviationPercentage": 0.2,
+        "timeSinceLastUpdateInMilliseconds": 86400000
+      }
     }
   }
 }
