@@ -11,6 +11,6 @@
   "adapterContract": "0x97c19d3Ae8e4d74e25EF3AFf3a277fB614ed76D4",
   "dataServiceId": "redstone-primary-prod",
   "priceFeeds": {
-    "BNB": "__NO_FEED__"
+    "BTC": "__NO_FEED__"
   }
 }
