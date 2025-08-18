@@ -76,66 +76,6 @@
     },
     "cbBTC": {
       "priceFeedAddress": "0xC9e11c60e24BEF478cC999fA9fA2d89cC098A86e"
-    },
-    "cmETH_FUNDAMENTAL": {
-      "priceFeedAddress": "0x5C4c8d6f6Bf79B718F3e8399AaBdFEd01cB7e48f"
-    },
-    "sUSDe": {
-      "priceFeedAddress": "0x243507C8C114618d7C8AD94b51118dB7b4e32ECe"
-    },
-    "UBTC": {
-      "priceFeedAddress": "0x7d05cd5159F38694A7D4dBf58957146a63c8Ad5A"
-    },
-    "mHYPE_FUNDAMENTAL": {
-      "priceFeedAddress": "0xa42a6568f1df29ef95DDDF440c41e48D4cfB310E"
-    },
-    "stHYPE/HYPE": {
-      "priceFeedAddress": "0xEC34D1Cf550dda751ff20cD4eCC7FF9219551B04"
-    },
-    "hwHLP_FUNDAMENTAL": {
-      "priceFeedAddress": "0xC328CDf06CBc77134B84e1f6ed452774947146b6"
-    },
-    "USR_FUNDAMENTAL": {
-      "priceFeedAddress": "0xa275809f06944c00E308FE764b0559ED84481042"
-    },
-    "XAU": {
-      "priceFeedAddress": "0xB5d303b9F984e42EB5E3C00Bdf733A309c654630"
-    },
-    "XAUt": {
-      "priceFeedAddress": "0xA3A75Fd9f19bd334605f59527552DBC6c7f6fD88"
-    },
-    "stHYPE": {
-      "priceFeedAddress": "0x4cEC96A68cb9A979621b104F3C94884be1a66da0"
-    },
-    "hbUSDT_FUNDAMENTAL": {
-      "priceFeedAddress": "0x96572d32d699cE463Fdf36610273CC76B7d83f9b"
-    },
-    "hbHYPE_FUNDAMENTAL": {
-      "priceFeedAddress": "0xDb924A25BfF353f98B066F692c38C3cFacb3a601"
-    },
-    "hbBTC_FUNDAMENTAL": {
-      "priceFeedAddress": "0x9ED559c2Ad1562aE8e919691A84A3320f547B248"
-    },
-    "kHYPE_FUNDAMENTAL": {
-      "priceFeedAddress": "0xFfe5F5e9e18b88FBdD7e28d4A583a111C874fB47"
-    },
-    "kHYPE_FUNDAMENTAL/USD": {
-      "priceFeedAddress": "0x82721e2C5Ef2DF1796B09728376361892b155594"
-    },
-    "RLP_FUNDAMENTAL": {
-      "priceFeedAddress": "0xd6156F8177aA1a6E0c5278CE437A9BDB32F203ef"
-    },
-    "lstHYPE_FUNDAMENTAL": {
-      "priceFeedAddress": "0xA569E68B5D110F2A255482c2997DFDBe1b2ab912"
-    },
-    "kHYPE": {
-      "priceFeedAddress": "0xF2448DC04B1d3f1767D6f7C03da8a3933bdDD697"
-    },
-    "kHYPE/HYPE": {
-      "priceFeedAddress": "0x3519B2f175D22a4dFA0595c291fEfe0945F0656d"
-    },
-    "beHYPE_FUNDAMENTAL": {
-      "priceFeedAddress": "0xBE4d4D2FDdE7408bD00B9912705De7bDC3F9bDeb"
     }
   }
 }
